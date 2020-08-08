@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
+    cout<<"你好";
     std::cout << "Hello, World!\n";
     return 0;
 }
